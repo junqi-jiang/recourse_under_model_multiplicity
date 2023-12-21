@@ -1,0 +1,26 @@
+
+& { Invoke-Expression (Get-Content -Raw bafs_credit/commands0.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_credit/commands1.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_credit/commands2.txt) }
+
+& { Invoke-Expression (Get-Content -Raw bafs_credit/commands3.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_credit/commands4.txt) }
+
+
+
+& { Invoke-Expression (Get-Content -Raw bafs_compas/commands0.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_compas/commands1.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_compas/commands2.txt) }
+
+& { Invoke-Expression (Get-Content -Raw bafs_compas/commands3.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_compas/commands4.txt) }
+
+
+
+& { Invoke-Expression (Get-Content -Raw bafs_heloc/commands0.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_heloc/commands1.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_heloc/commands2.txt) }
+
+& { Invoke-Expression (Get-Content -Raw bafs_heloc/commands3.txt) }
+& { Invoke-Expression (Get-Content -Raw bafs_heloc/commands4.txt) }
+
